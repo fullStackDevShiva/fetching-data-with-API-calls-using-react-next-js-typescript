@@ -47,7 +47,7 @@ required: true,
 ],
 
 reactions: {
-type: Boolean,
+type: Number,
 required: false,
 },
 
