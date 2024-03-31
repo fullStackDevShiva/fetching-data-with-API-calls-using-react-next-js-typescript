@@ -2,11 +2,17 @@ This is an example to show how we can fetch data from the backend using API call
 
 In this example, I'm fetching a collection of blog posts from backend and list them in the frontend.
 
-## Techstack:
+## Frontend
 
-Frontend - In the frontend Next Js, Typescript and Axios are used.
-Backend - In the backend Node Js and Express are used.
-Database - A json file with dummy data set has been used.
+In the frontend Next Js, Typescript and Axios are used.
+
+## Backend
+
+In the backend Node Js and Express are used with basic code just to demonstrate.
+
+## Database
+
+A json file with dummy data set has been used.
 
 ## DB schema for a Post object is:
 
